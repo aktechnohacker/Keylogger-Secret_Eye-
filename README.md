@@ -8,6 +8,8 @@
 
 <p>* Keyloggers are activity-monitoring software programs that give hackers access to your personal data. The passwords and credit card numbers you type, the webpages you visit – all by logging your keyboard strokes. The software is installed on your computer, and records everything you type.</p>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The keylogger that I've made is a basic keylogger with not much functionality.
 
 It captures your keystrokes and saves them in a file "keylogger.txt".
