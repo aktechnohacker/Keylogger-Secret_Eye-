@@ -1,7 +1,6 @@
+<a href="https://www.buymeacoffee.com/cyberkhare" target="_blank"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" alt="Buy Me A Coffee" height="60" width="160" ></a>
 
-<a href="https://www.buymeacoffee.com/cyberkhare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-https://www.angeldecuir.com.mx/wp-content/uploads/2021/06/buymeacoffee.jpg
 
 <h1 align="center">     Key-Logger  (Secret Eye)                      </h1>
 
@@ -32,3 +31,23 @@ While python comes with the library smtplib and ssl preinstalled.
 
 
 You can install pynput with : pip install pynput
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
