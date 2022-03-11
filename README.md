@@ -1,3 +1,8 @@
+
+<a href="https://www.buymeacoffee.com/cyberkhare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+https://www.angeldecuir.com.mx/wp-content/uploads/2021/06/buymeacoffee.jpg
+
 <h1 align="center">     Key-Logger  (Secret Eye)                      </h1>
 
 <p align="center">  <img height="345" width="570" src="https://i0.wp.com/cybr.com/wp-content/uploads/2020/09/keylogger-banner.png?fit=886%2C537&ssl=1" > 
